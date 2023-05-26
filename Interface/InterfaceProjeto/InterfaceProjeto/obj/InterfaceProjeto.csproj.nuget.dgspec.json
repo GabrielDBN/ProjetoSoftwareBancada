@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Faculdade\\4 Ano\\Projeto em Engenharia da Computação 1\\Tarefas\\Projeto - Bancada de Empuxo\\Interface\\InterfaceProjeto\\InterfaceProjeto\\InterfaceProjeto.csproj": {}
+  },
+  "projects": {
+    "F:\\Faculdade\\4 Ano\\Projeto em Engenharia da Computação 1\\Tarefas\\Projeto - Bancada de Empuxo\\Interface\\InterfaceProjeto\\InterfaceProjeto\\InterfaceProjeto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Faculdade\\4 Ano\\Projeto em Engenharia da Computação 1\\Tarefas\\Projeto - Bancada de Empuxo\\Interface\\InterfaceProjeto\\InterfaceProjeto\\InterfaceProjeto.csproj",
+        "projectName": "InterfaceProjeto",
+        "projectPath": "F:\\Faculdade\\4 Ano\\Projeto em Engenharia da Computação 1\\Tarefas\\Projeto - Bancada de Empuxo\\Interface\\InterfaceProjeto\\InterfaceProjeto\\InterfaceProjeto.csproj",
+        "packagesPath": "C:\\Users\\G\\.nuget\\packages\\",
+        "outputPath": "F:\\Faculdade\\4 Ano\\Projeto em Engenharia da Computação 1\\Tarefas\\Projeto - Bancada de Empuxo\\Interface\\InterfaceProjeto\\InterfaceProjeto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\G\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.33, )"
+            },
+            "Spire.Doc": {
+              "target": "Package",
+              "version": "[11.5.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
